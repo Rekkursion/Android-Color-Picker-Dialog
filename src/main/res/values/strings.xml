@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ColorPickerDialog</string>
+
+    <string name="str_red">Red</string>
+    <string name="str_green">Green</string>
+    <string name="str_blue">Blue</string>
+    <string name="str_alpha">Alpha</string>
+    <string name="str_hex_code">Hex code</string>
+
+    <string name="str_000">000</string>
+    <string name="str_255">255</string>
+
+    <string name="str_cancel">Cancel</string>
+    <string name="str_select">Select</string>
+</resources>

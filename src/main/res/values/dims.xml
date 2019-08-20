@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dim_general_margin">10dp</dimen>
+
+    <dimen name="dim_edit_features_bar_item_margin">10dp</dimen>
+    <dimen name="dim_edit_features_bar_item_padding">2dp</dimen>
+
+    <dimen name="dim_color_picker_dialog_seek_bar_max_height">5dp</dimen>
+    <dimen name="dim_color_picker_dialog_value_showing_btn_padding">3dp</dimen>
+    <dimen name="dim_color_picker_dialog_button_bar_margin">5dp</dimen>
+
+    <dimen name="dim_captured_images_grid_view_spacing">5dp</dimen>
+</resources>
